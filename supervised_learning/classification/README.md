@@ -1,0 +1,1 @@
+This repository was created to practice on nueral networks.
