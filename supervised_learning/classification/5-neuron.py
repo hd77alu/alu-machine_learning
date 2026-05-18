@@ -105,3 +105,4 @@ class Neuron:
         db = np.mean(dz)
         self.__W -= alpha * dw
         self.__b -= alpha * db
+        
