@@ -89,4 +89,3 @@ class Neuron:
         cost = self.cost(Y, pred)
         pred = np.where(pred > 0.5, 1, 0)
         return (pred, cost)
-    
